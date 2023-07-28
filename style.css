@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+ul,ol {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.q {
+    color: #95E1D3;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+.q:hover {
+color: #F38181;
+}
+
+.a {
+    color: #95E1D3;
+font-family: Montserrat;
+font-size: 30px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+/*margin-bottom: 100px;*/
+}
+
+nav {
+    margin-top: 100px;
+}
+
+.b:not(:last-child){
+    margin-bottom: 20px;
+}
